@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough!
 
-https://i.imgur.com/PTkBiuT.gif
+![](https://i.imgur.com/PTkBiuT.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
